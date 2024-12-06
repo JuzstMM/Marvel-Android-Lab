@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidLab</string>
+    <string name="choose_hero">Choose your Hero</string>
+    <string name="iron_man_name">Iron Man</string>
+    <string name="iron_man_desc">Genius, Billionaire, Playboy, Philanthropist</string>
+    <string name="spider_man_name">Spider-Man</string>
+    <string name="spider_man_desc">Your friendly neighbor</string>
+    <string name="deadpool_name">Deadpool</string>
+    <string name="deadpool_desc">Psycho for hire</string>
+</resources>
